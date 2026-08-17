@@ -35,7 +35,7 @@ When answering situational questions, ALWAYS run the scenario through these rule
 
 For a detailed breakdown of situational decision-making frameworks, hybrid methodology trade-offs, and pacing strategies across 180 questions, check out this comprehensive write-up:
 
-* [Cracking the PMP in 2026: Situational Decision-Making, Agile Integration, and Exam Strategies](https://masonnotes.hashnode.dev/cracking-the-pmp-in-2026-situational-decision-making-agile-integration-and-exam-strategies)
+* [Cracking the PMP in 2026: Situational Decision-Making, Agile Integration, and Exam Strategies](https://telegra.ph/How-I-Passed-the-PMI-PMP-Exam-on-My-First-Attempt--Study-Guide-08-17)
 
 ---
 
