@@ -52,9 +52,18 @@ You don't need heavy math for modern PMP exams, but you **must** understand what
  
  ---
 
+
 🔗 Official PMI Documentation & Certification Resources
 
 * [PMI PMP Certification Official Page](https://www.pmi.org/certifications/project-management-pmp) - Official Exam Content Outline (ECO), handbook, and PDUs maintenance guide.
+* [PMI Standards+ Platform](https://standardsplus.pmi.org/) - Digital hub for standards, articles, and real-world project management templates.
+* [PMI Official GitHub Organization](https://github.com/pmi) - Official repositories and open-source project standards resources.
+
+---
+
+📚 Recommended Architectural Guides & Deep Dives
+
+* [Navigating Enterprise Project Management: Real-World Scenarios and PMP Study Insights](https://dev.to/masonbrooksnet/navigating-enterprise-project-management-real-world-scenarios-and-pmp-study-insights-2hj2) - *Practical insights into balancing predictive PMBOK principles with adaptive delivery models.*handbook, and PDUs maintenance guide.
 * [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/agile-acp) - Official reference guide for agile frameworks and exam requirements.
 * [PMI Standards+ Platform](https://standardsplus.pmi.org/) - Digital hub for standards, articles, and real-world project management templates.
 * [PMI Official GitHub Organization](https://github.com/pmi) - Official repositories and open-source project standards resources.
